@@ -7,7 +7,7 @@
         "MassActionBot",
         "BanallBot"
     ],
-    "repository": "https://github.com/TheChampu/ActionBot",
+    "repository": "https://github.com/TheChampu/ActionBot.git",
     "env": {        
         "API_ID": {
             "description": "my.telegram.org",
